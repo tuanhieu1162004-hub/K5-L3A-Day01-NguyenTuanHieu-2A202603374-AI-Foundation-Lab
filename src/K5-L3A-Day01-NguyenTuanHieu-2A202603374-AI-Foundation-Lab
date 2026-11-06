@@ -99,11 +99,11 @@
       "execution_count": 9,
       "id": "e72277de",
       "metadata": {
-        "id": "e72277de",
-        "outputId": "6032ee97-78c7-4584-a594-65dbbd5bd531",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "e72277de",
+        "outputId": "6032ee97-78c7-4584-a594-65dbbd5bd531"
       },
       "outputs": [
         {
@@ -176,12 +176,12 @@
       "execution_count": 10,
       "id": "fc6a520c",
       "metadata": {
-        "id": "fc6a520c",
-        "outputId": "5ef8329e-0724-46e5-bf60-eaa2b6948d15",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 428
-        }
+        },
+        "id": "fc6a520c",
+        "outputId": "5ef8329e-0724-46e5-bf60-eaa2b6948d15"
       },
       "outputs": [
         {
@@ -407,11 +407,11 @@
       "execution_count": 11,
       "id": "c8e2f1da",
       "metadata": {
-        "id": "c8e2f1da",
-        "outputId": "85cd3ae0-dc1f-43e0-cfc7-ab644619a332",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "c8e2f1da",
+        "outputId": "85cd3ae0-dc1f-43e0-cfc7-ab644619a332"
       },
       "outputs": [
         {
@@ -457,11 +457,11 @@
       "execution_count": 12,
       "id": "c84fe289",
       "metadata": {
-        "id": "c84fe289",
-        "outputId": "9512f44f-591c-4604-ff30-cd4449bb8c2e",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "c84fe289",
+        "outputId": "9512f44f-591c-4604-ff30-cd4449bb8c2e"
       },
       "outputs": [
         {
@@ -532,11 +532,11 @@
       "execution_count": 13,
       "id": "fea13a88",
       "metadata": {
-        "id": "fea13a88",
-        "outputId": "a79c8622-6e4f-4892-d10e-7cd119ade21d",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "fea13a88",
+        "outputId": "a79c8622-6e4f-4892-d10e-7cd119ade21d"
       },
       "outputs": [
         {
@@ -590,11 +590,11 @@
       "execution_count": 52,
       "id": "373e38a6",
       "metadata": {
-        "id": "373e38a6",
-        "outputId": "3d681e45-bb1c-4ed8-89c0-77b09ea9b440",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "373e38a6",
+        "outputId": "3d681e45-bb1c-4ed8-89c0-77b09ea9b440"
       },
       "outputs": [
         {
@@ -639,11 +639,11 @@
       "execution_count": 48,
       "id": "60a304cd",
       "metadata": {
-        "id": "60a304cd",
-        "outputId": "e61b387a-5d51-453d-8fa2-f68d2a55ab6f",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "60a304cd",
+        "outputId": "e61b387a-5d51-453d-8fa2-f68d2a55ab6f"
       },
       "outputs": [
         {
@@ -712,11 +712,11 @@
       "execution_count": 50,
       "id": "fc4d9025",
       "metadata": {
-        "id": "fc4d9025",
-        "outputId": "e4bef761-f89c-4edc-81e3-cf171f905389",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "fc4d9025",
+        "outputId": "e4bef761-f89c-4edc-81e3-cf171f905389"
       },
       "outputs": [
         {
@@ -780,11 +780,11 @@
       "execution_count": 44,
       "id": "4822c1c5",
       "metadata": {
-        "id": "4822c1c5",
-        "outputId": "de72160a-546c-4552-f334-83216df174e3",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "4822c1c5",
+        "outputId": "de72160a-546c-4552-f334-83216df174e3"
       },
       "outputs": [
         {
@@ -821,11 +821,11 @@
       "execution_count": 57,
       "id": "1766da11",
       "metadata": {
-        "id": "1766da11",
-        "outputId": "d03f14d4-af6a-463a-c289-69befe4a31e3",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "1766da11",
+        "outputId": "d03f14d4-af6a-463a-c289-69befe4a31e3"
       },
       "outputs": [
         {
@@ -845,12 +845,12 @@
       "execution_count": 58,
       "id": "5b7e31f5",
       "metadata": {
-        "id": "5b7e31f5",
-        "outputId": "f83b46f8-a1dd-49d4-c289-53c28d2e89f0",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 404
-        }
+        },
+        "id": "5b7e31f5",
+        "outputId": "f83b46f8-a1dd-49d4-c289-53c28d2e89f0"
       },
       "outputs": [
         {
@@ -904,11 +904,11 @@
       "execution_count": 59,
       "id": "728023fa",
       "metadata": {
-        "id": "728023fa",
-        "outputId": "20a5b6a3-0a28-4900-d35e-aafa6c1026d2",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "728023fa",
+        "outputId": "20a5b6a3-0a28-4900-d35e-aafa6c1026d2"
       },
       "outputs": [
         {
@@ -965,11 +965,11 @@
       "execution_count": 61,
       "id": "18d35aaa",
       "metadata": {
-        "id": "18d35aaa",
-        "outputId": "a4a20b1f-5924-44bb-f832-c18ac47d54bc",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "18d35aaa",
+        "outputId": "a4a20b1f-5924-44bb-f832-c18ac47d54bc"
       },
       "outputs": [
         {
@@ -989,12 +989,12 @@
       "execution_count": 63,
       "id": "32ac7046",
       "metadata": {
-        "id": "32ac7046",
-        "outputId": "4189847f-4603-49ee-d00c-b0b99e8b98f3",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 257
-        }
+        },
+        "id": "32ac7046",
+        "outputId": "4189847f-4603-49ee-d00c-b0b99e8b98f3"
       },
       "outputs": [
         {
@@ -1088,11 +1088,11 @@
       "execution_count": 69,
       "id": "2186aa46",
       "metadata": {
-        "id": "2186aa46",
-        "outputId": "e8dc410c-0519-49e3-8c16-256cadf60fb8",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "2186aa46",
+        "outputId": "e8dc410c-0519-49e3-8c16-256cadf60fb8"
       },
       "outputs": [
         {
@@ -1169,11 +1169,11 @@
       "execution_count": 71,
       "id": "4592f2bf",
       "metadata": {
-        "id": "4592f2bf",
-        "outputId": "c1409908-b2bf-4d9d-ff9e-6ab2ad61ee59",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "4592f2bf",
+        "outputId": "c1409908-b2bf-4d9d-ff9e-6ab2ad61ee59"
       },
       "outputs": [
         {
@@ -1209,11 +1209,11 @@
       "execution_count": 72,
       "id": "8daef948",
       "metadata": {
-        "id": "8daef948",
-        "outputId": "8ecc7d87-c4fa-4cb0-e70c-bbf85960424b",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "8daef948",
+        "outputId": "8ecc7d87-c4fa-4cb0-e70c-bbf85960424b"
       },
       "outputs": [
         {
@@ -1233,12 +1233,12 @@
       "execution_count": 73,
       "id": "d81a9262",
       "metadata": {
-        "id": "d81a9262",
-        "outputId": "a676c4ae-b3b6-4b4c-b22f-3f681cda8094",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 350
-        }
+        },
+        "id": "d81a9262",
+        "outputId": "a676c4ae-b3b6-4b4c-b22f-3f681cda8094"
       },
       "outputs": [
         {
@@ -1288,7 +1288,7 @@
         "**❓ Câu hỏi 2.A**\n",
         "1. Từ epoch nào mô hình bắt đầu **overfit**? Dấu hiệu trên biểu đồ là gì? Bạn sẽ dừng ở epoch nào?\n",
         "2. MLP có thắng rõ logistic regression không? Vì sao với **bài toán nhỏ, input là bag-of-words**, deep learning không tạo khác biệt lớn? *(gợi ý slide 6: DL mạnh ở đâu?)*\n",
-        "> *Trả lời của bạn:*\n",
+        "> *Trả lời của bạn:Mô hình bắt đầu overfit sau epoch 7 Train loss tiếp tục giảm nhưng val loss tăng dần, dừng ở epoch 7 để tránh overfitting. MLP thắng Logistic Regression với F1 = 0.939 so với 0.898,dữ liệu nhỏ và Bag-of-Words không giữ ngữ cảnh*\n",
         "\n",
         "### 🔮 Thí nghiệm 2.B — Bỏ ReLU\n",
         "Nếu xoá `nn.ReLU()`, mạng 2 lớp Linear liên tiếp tương đương với mô hình nào? Dự đoán F1 thay đổi ra sao."
